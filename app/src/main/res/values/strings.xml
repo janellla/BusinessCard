@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_surname">Rymkhanova Zhanel</string>
+    <string name="business">AITU Student</string>
+    <string name="phone_number">+000000000</string>
+    <string name="email_text">zhanel@gmail.com</string>
+    <string name="share_text">zhanel@android.com</string>
+</resources>
